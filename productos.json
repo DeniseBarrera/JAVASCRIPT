@@ -1,0 +1,18 @@
+[
+    { "id": 1, "nombre": "Papas Fritas", "descripcion": "Clasicas de siempre", "imagen":"../img/papas.jpg", "precio": 500 },
+    { "id": 2, "nombre": "Papas Fritas", "descripcion": "Con chedar, cebolla y verdeo", "imagen":"../img/papas.jpg", "precio": 700 },
+    { "id": 3, "nombre": "Papas Fritas", "descripcion": "Con queso mozzarella, panceta y huevo revuelto", "imagen":"../img/papas.jpg", "precio": 750 },
+    { "id": 4, "nombre": "Hamburguesa", "descripcion": "Tres medallones de carne (100gr.c/u), cheddar, panceta, tomate y cebolla en aros", "imagen":"../img/hamburguesa.jpg", "precio": 1000 },
+    { "id": 5, "nombre": "Hamburguesa", "descripcion": "Dos medallones de carne (100gr.c/u), jamón, queso, tomate, cebolla caramelizada y palta.", "imagen":"../img/hamburguesa2.jpg", "precio": 880 },
+    { "id": 6, "nombre": "Lomo", "descripcion": "Carne o pollo, muzzarella, panceta, lechuga, tomate, palta. Opción sin Tac sale muzzarella entra tybo.", "imagen":"../img/IMG2279.jpg", "precio": 1050 },
+    { "id": 7, "nombre": "Lomo", "descripcion": "Carne o pollo, huevo, panceta, salteado de pimientos, queso tybo, salsa de tomate y lechuga.", "imagen":"../img/IMG2279.jpg", "precio": 1050 },
+    { "id": 8, "nombre": "Lomo", "descripcion": "Carne o pollo, cheddar, cebolla caramelizada, huevo frito, panceta y rúcula.", "imagen":"../img/IMG2296.jpg", "precio": 1050 },
+    { "id": 9, "nombre": "Sandwich", "descripcion": "Con salamín, queso tybo y colchón de rúcula.", "imagen":"../img/IMG2301.jpg", "precio": 600 },
+    { "id": 10, "nombre": "Pizza", "descripcion": "Salsa de tomate, queso mozzarella, jamón, morrones y aceitunas.", "imagen":"../img/IMG2294.jpg", "precio": 950 },
+    { "id": 11, "nombre": "Pizza", "descripcion": "Salsa de tomate, queso mozzarella, salame y aceitunas.", "imagen":"../img/IMG2277.jpg", "precio": 950 },
+    { "id": 12, "nombre": "Golden", "descripcion": "Cerveza dorada, 5%, 20 de IBU. Descripción: Cerveza ligera totalmente refrescante y fácil de tomar balanceada hacia la malta, su color va de lo dorado al pálido. Con notas leves cítricas, predominando también el sabor a pan o galletita.", "imagen":"../img/pinta.jpg", "precio": 350 },
+    { "id": 13, "nombre": "Session ipa", "descripcion": "Cerveza clara, 6%, 35 de IBU. Descripción: Su color va del claro, amarillento, pero también comprende los colores cobrizos. Muy aromática (Frutada, Cítrica y Herbal). De fácil tomabilidad y muy refrescante para los amantes de cervezas no muy amargas.", "imagen":"../img/pinta.jpg", "precio": 350 },
+    { "id": 14, "nombre": "Scotch", "descripcion": "Cerveza Roja, 6%, 25 de IBU. Descripción: Cerveza maltosa, generalmente un poco caramelizada, se puede encontrar notas sutiles a caramelo. Sensación en boca cuerpo bajo - medio.", "imagen":"../img/pinta.jpg", "precio": 350 },
+    { "id": 15, "nombre": "Fucking IPA", "descripcion": "Cerveza Amarilla intensa, 6%, 40 de IBU. Descripción: Cerveza turbia debido al agregado de avena y trigo (proteínas también). Atención cerveza altamente lupulada con reminiscencias cítricas y frutales.", "imagen":"../img/pinta.jpg", "precio": 350 },
+    { "id": 16, "nombre": "Dorada Pampeana", "descripcion": "Cerveza dorada, 5%, 20 de IBU. Descripción: Estilo que nació en Argentina de buena tomabilidad, bajo porcentaje de alcohol y cuerpo.", "imagen":"../img/pinta.jpg", "precio": 350 }
+]
